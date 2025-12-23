@@ -1,0 +1,12 @@
+student_id,name,email,major,gpa,test_score,city,enrollment_year,height_cm
+0001,  alice  ,alice@gmail.com,CS,3.8,92.0,Seoul,2022,165
+0002,BOB,bob@YAHOO.com,cs,3.5,85.0,  seoul,2021,178
+0003,ChArLie,charlie@gmail.com,Computer Science,2.9,,Busan,2020,172
+0004,Diana,diana at mail.com,EE,4.1,88.0,Daegu,2022 ,160
+0005,Eve  , eve@gmail.com ,Electrical Eng,3.2,110.0,Incheon, 2019,158
+0005,Eve  , eve@gmail.com ,Electrical Eng,3.2,110.0,Incheon,2019,158
+,Frank,frank@gmail,Business ,,73.0,Busan,2021,181
+0007,Grace,grace@univ.edu,BUSINESS,9.1,999.0,SeJeong,2023,250
+0008,Heidi,,Math,3.7,91.0,Daejeon,,169
+0009,ivan,ivan@gmail.com,MATH ,NaN,65.0,Busan,2018,175
+0010,Judy ,judy@gmail.com,CompSci,2.1,84.0,Jeju,2018,162
